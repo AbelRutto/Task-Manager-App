@@ -6,7 +6,7 @@ function Logo() {
   return (
     <div className="logo">
       <IoLogoReact className="iconlogo" />
-      <div className="title-logo">Stollie</div>
+      <div className="title-logo">Task</div>
     </div>
   );
 }
