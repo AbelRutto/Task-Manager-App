@@ -1,6 +1,5 @@
 {
-  "name": "kanban",
-  "homepage": "https://aswan123.github.io/Kanban-v2/",
+  "name": "Task-manager",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
